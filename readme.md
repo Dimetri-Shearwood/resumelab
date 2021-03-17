@@ -1,0 +1,1 @@
+I made a json object as a short resume. I filled the property names with my different stats on my resume, explaining my tech background and displaying my tech skills. 

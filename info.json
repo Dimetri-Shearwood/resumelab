@@ -1,0 +1,25 @@
+{
+    "name": "Dimetri Shearwood",
+    "website": "https://tomatohammado.github.io/",
+    "linkedin": "https://www.linkedin.com/in/dimetri-shearwood/",
+    "github": "https://github.com/Dimetri-Shearwood",
+    "email": "d.algorhythmic@gmail.com",
+    "resume": "",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Musician",
+        "Producer"
+    ]
+}
