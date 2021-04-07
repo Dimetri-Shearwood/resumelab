@@ -1,16 +1,14 @@
 {
   "name": "dimetri-resume",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "a cool resume",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
+  "author": "",
+  "license": "ISC",
   "bin": {
     "your-command-here": "./index.js"
-  },
-
-  "author": "",
-  "license": "ISC"
+  }
 }
