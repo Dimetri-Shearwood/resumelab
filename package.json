@@ -1,14 +1,14 @@
 {
+  "bin": {
+    "show-resume": "index.js"
+  },
   "name": "dimetri-resume",
-  "version": "1.0.4",
-  "description": "a cool resume",
+  "version": "1.0.5",
+  "description": "my resume",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "bin": {
-    "your-command-here": "./index.js"
-  }
+  "author": "dimetri shearwood",
+  "license": "ISC"
 }
